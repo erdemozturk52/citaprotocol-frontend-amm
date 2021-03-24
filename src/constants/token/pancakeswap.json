@@ -13,9 +13,10 @@
     {
       "name": "Cita Protocol",
       "symbol": "Cita",
-      "address": "0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6",
+      "address": "0xaFa2219bc6998575d2E5fd3EE602EAd4Ca9d7A65",
       "chainId": 56,
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "/images/coins/CITA.png"
     },
     {
       "name": "AUTOv2",
